@@ -7,6 +7,16 @@ The application uses the publicly available SECOM manufacturing dataset and appl
 
 ---
 
+## Dataset Source
+
+This project uses the **UCI SECOM** dataset from Kaggle:
+
+https://www.kaggle.com/datasets/paresh2047/uci-semcom
+
+Raw files are not committed to this repository (see `data/raw/`). Processed datasets used by the app are stored in `data/processed/`.
+
+---
+
 ## Project Structure
 
 project-root/
