@@ -1,5 +1,5 @@
+streamlit>=1.30,<2
 pandas
 numpy
-scikit-learn
-streamlit
 plotly
+scikit-learn
